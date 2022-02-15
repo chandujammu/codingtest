@@ -1,0 +1,8 @@
+a=int(input("enter the number:")
+b=int(input("enter the number:")
+print(a/b)
+
+output:
+enter the number:6
+enter the number:2
+3
